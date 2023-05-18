@@ -5,5 +5,5 @@ source of the data: https://eightportions.com/datasets/Recipes/#fn:1
 
 All raw data for Recipe_rate.ipynb can be access through:
 
-https://drive.google.com/drive/folders/1g9n8N2iFDzMOZ9IqySPTNMo5gPQ6-csG?usp=share_link
+https://drive.google.com/drive/folders/1Ib2l39aXSZl57FxcGrt-R3J5EOcqbptL?usp=sharing
 source of the data: https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
