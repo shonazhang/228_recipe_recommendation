@@ -1,3 +1,6 @@
 All raw data for Spark NLP -- Recipe Recommendation.ipynb can be access through:
 
 https://drive.google.com/drive/folders/1g9n8N2iFDzMOZ9IqySPTNMo5gPQ6-csG?usp=share_link
+source of the data: https://eightportions.com/datasets/Recipes/#fn:1
+
+
